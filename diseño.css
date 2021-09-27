@@ -89,11 +89,18 @@ img{
     margin-left: 3%;
     height: 30%;
     width: 40%;
-    margin-top: 10%;
 }
 .ingredientes{
     display: flex;
     flex-direction: row;
     font-size: 20px;
-    
+}
+.p1{
+    background-color: rgba(90, 184, 81, 0.678);
+}
+.p2{
+    background-color: rgb(246, 241, 246);
+}
+.p3{
+    background-color: rgba(205, 50, 50, 0.616);
 }
